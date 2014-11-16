@@ -1,7 +1,7 @@
 package tic_tac_toe_test
 
 import (
-	. "github.com/gobasic/game/tic_tac_toe"
+	. "github.com/golang-basic/game/tic_tac_toe"
 	"fmt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
